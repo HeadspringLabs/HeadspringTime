@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>HeadspringTime</id>
+        <version>1.0.0</version>
+        <authors>Headspring</authors>
+        <owners>Headspring</owners>
+        <licenseUrl>https://raw.github.com/HeadspringLabs/HeadspringTime/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/HeadspringLabs/HeadspringTime</projectUrl>
+        <iconUrl>https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2010/May/14/spray_avatar.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A lightweight implementation of SystemClock that will help make your applications more testable when dealing with dates and times.</description>
+        <tags>utility datetime clock date time systemclock</tags>
+    </metadata>
+    <files>
+        <file src="SystemClock.cs" target="content\Headspring\SystemClock.cs" />
+        <file src="LICENSE.txt" target="content\Headspring\LICENSE.txt" />
+    </files>
+</package>
